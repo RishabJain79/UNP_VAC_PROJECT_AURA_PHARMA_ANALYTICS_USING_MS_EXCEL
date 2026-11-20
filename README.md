@@ -1,1 +1,5 @@
 # UNP_VAC_PROJECT_AURA_PHARMA_ANALYTICS_USING_MS_EXCEL
+
+A Value Added Course with UNP Education – Business Statistics with AI, I worked on a practical Pharma Distribution Analysis project using statistical and analytical techniques. The project involved cleaning and preprocessing the dataset through data modification (domification) and filters, along with correcting inconsistencies in Tier City text. I performed outlier detection, quartile and IQR calculations to understand the distribution and variability of the data. Further, I selected relevant X and Y variables to create Pivot Tables and Pivot Charts for meaningful data analysis and visualization. I also conducted three hypothesis tests, including t-tests and a Z-test, to draw statistical conclusions. Finally, I performed single linear regression and multiple linear regression to examine relationships between variables and develop data-driven insights.
+
+MS EXCEL PROJECT FILE LINK : https://drive.google.com/drive/folders/1jCQWKhVnxnjIB55F51dH5tlIso_HIOPt?usp=sharing
